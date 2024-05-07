@@ -1,0 +1,6 @@
+C:\Users\29375347\source\repos\RoomLibraryAmbrsenko\RoomLibraryAmbrsenko\bin\Debug\RoomLibraryAmbrsenko.dll
+C:\Users\29375347\source\repos\RoomLibraryAmbrsenko\RoomLibraryAmbrsenko\bin\Debug\RoomLibraryAmbrsenko.pdb
+C:\Users\29375347\source\repos\RoomLibraryAmbrsenko\RoomLibraryAmbrsenko\obj\Debug\RoomLibraryAmbrsenko.csproj.AssemblyReference.cache
+C:\Users\29375347\source\repos\RoomLibraryAmbrsenko\RoomLibraryAmbrsenko\obj\Debug\RoomLibraryAmbrsenko.csproj.CoreCompileInputs.cache
+C:\Users\29375347\source\repos\RoomLibraryAmbrsenko\RoomLibraryAmbrsenko\obj\Debug\RoomLibraryAmbrsenko.dll
+C:\Users\29375347\source\repos\RoomLibraryAmbrsenko\RoomLibraryAmbrsenko\obj\Debug\RoomLibraryAmbrsenko.pdb
